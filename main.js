@@ -1,2 +1,2 @@
-const x = "hello world"
-console.log(x);
+const y = "hello world"
+console.log(y);
